@@ -5,7 +5,6 @@ class Quiz extends Component {
         return (
             <li>
                 <button>
-            </li>
             );
     }
 }
