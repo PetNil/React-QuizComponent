@@ -8,9 +8,9 @@ class Quiz extends Component {
         this.state = { quiz_position: 1 };
     }
     render() {
-        <div>
-            <div>Quiz
-            </div>
+        return (
+           <div>Quiz</div>
+        );
     }
 }
 
