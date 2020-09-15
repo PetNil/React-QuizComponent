@@ -1,4 +1,6 @@
-import React, { Component} from 'react'
+import React, { Component } from 'react'
+
+import QuizQuestions from './QuizQuestions.js'
 
 let quizData = require('./quiz_data.json')
 
