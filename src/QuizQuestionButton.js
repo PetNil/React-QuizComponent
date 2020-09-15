@@ -1,10 +1,11 @@
 import React, { Component } from 'react'
 
-class Quiz extends Component {
+class QuizQuestionButton extends Component {
     render() {
         return (
             <li>
-                <button>
+                <button></button>
+                </li>
             );
     }
 }
