@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-class Quiz extends Component {
+class QuizEnd extends Component {
     render() {
         return (
             <div>
